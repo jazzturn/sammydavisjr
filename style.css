@@ -35,13 +35,12 @@ ul {
 
 a {
   text-decoration: none;  
-}
-a:hover {
-    color: #00696c;
+  color: #00696c;
 }
 
 a:visited {
   color: #9e9e9e;
+  text-decoration: none;
 }
 
 .opaque-box {
