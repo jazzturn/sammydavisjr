@@ -9,6 +9,9 @@ background: url('https://66.media.tumblr.com/4b192118f6192a8c19855b6e8122bd76/tu
 min-height: 100%;
 overflow: auto;
  background-size: 510px 650px;
+   -webkit-background-size: inherit;
+  -moz-background-size: inherit;
+  -o-background-size: inherit;
 }
   
 h1 {
