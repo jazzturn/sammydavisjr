@@ -3,7 +3,7 @@ background: url('https://66.media.tumblr.com/4b192118f6192a8c19855b6e8122bd76/tu
 min-height: 100%;
 overflow: auto;
  padding: 0;
-  margin: 0;
+  margin: 0 0 auto auto;
 }
   
 h1 {
